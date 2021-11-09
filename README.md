@@ -1,0 +1,2 @@
+# DEPENDECIAS_ASSEMBLER8086
+estas son los archivos necesarios a tener para hacer uso de assember 8086, no son 100% necesarias, por que hay por ejemplo extenciones de visual studio code que harian el mismo trabajo, pero yo trabaje solo con estas y nos perniten ensamblar solo con el "ml nombre.asm". tambien tenemos como debemos de tener el dosbos opcions para asi solo darle click al icono y que ya corra el programa con las modificaciones actuales.
